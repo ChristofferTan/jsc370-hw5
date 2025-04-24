@@ -5,7 +5,7 @@ This GitHub repository contains my submission for **Assignment 5** of the JSC370
 ## 🌐 Website
 
 You can view the live website here:  
-👉 **[Bike Share & Weather – Interactive Visualization Site]([https://christoffertan.github.io/jsc370-a5/](https://christoffertan.github.io/jsc370-hw5/))**
+👉 **[Bike Share & Weather – Interactive Visualization Site]([https://christoffertan.github.io/jsc370-a5/](https://christoffertan.github.io/jsc370-hw5/)**
 
 ---
 
